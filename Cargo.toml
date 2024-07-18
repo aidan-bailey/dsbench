@@ -1,6 +1,11 @@
 [package]
 name = "dsbench"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
+authors = ["Aidan Bailey"]
+description = "Benchmarking for your data structures' searching, deleting and inserting"
+readme = "README.md"
+repository = "https://github.com/aidan-bailey/dsbench"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
